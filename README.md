@@ -26,4 +26,4 @@ Training has been performed on 200 epochs for YOLOv5n, YOLOv5s and YOLOv5m.
 
 The Android Mobil App is a light version of https://github.com/AarohiSingla/TFLite-Object-Detection-Android-App-Tutorial-Using-YOLOv5
 
-TODO : Ajouter image
+<img src="https://github.com/Sefray/mlops_yolov5_mobileApp/blob/main/image/mobile_app.jpg" width="200" height="400" />
